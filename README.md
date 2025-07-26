@@ -1,15 +1,12 @@
 # DataStructures_-_Algorithms
 Python DataStructures Algorithms
 
-
 ###  `01_LIST.ipynb` – Python Lists  
 - List creation and indexing  
 - Slicing and nested lists  
 - Adding, updating, and deleting elements  
 - Common list methods (`append`, `extend`, `pop`, etc.)  
 - Iteration and comprehensions  
-
----
 
 ###  `02_Pythonic_way.ipynb` – Writing Cleaner Python  
 - Idiomatic Python & readability tips  
@@ -20,8 +17,6 @@ Python DataStructures Algorithms
 - Sorting with `key` functions  
 - `defaultdict`, `Counter`, and functional tools (`map`, `filter`, etc.)  
 
----
-
 ###  `03_Simple_programs.ipynb` – Small Python Programs  
 - Basic input/output  
 - Conditionals (`if/elif/else`) and loops (`for`, `while`)  
@@ -31,7 +26,6 @@ Python DataStructures Algorithms
 - Mini exercises: factorial, palindrome, prime check, etc.
 
   ## 📌 Topics Covered – 03_string_practice.ipynb
-
 1. String creation and indexing  
 2. String slicing and concatenation  
 3. Common string methods (`upper`, `lower`, `find`, `replace`, etc.)  
@@ -42,7 +36,6 @@ Python DataStructures Algorithms
 8. Basic string manipulation exercises
 
 ## 📌 Topics Covered – 04_SET_DICT.ipynb
-
 1. Introduction to Python Sets  
 2. Creating and modifying sets  
 3. Set operations: union, intersection, difference, symmetric difference  
